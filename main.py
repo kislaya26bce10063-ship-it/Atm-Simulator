@@ -1,5 +1,5 @@
 print("******************************")
-print("         ATM SIMULATOR")
+print("ATM SIMULATOR")
 print("******************************")
 
 pin = 1234
